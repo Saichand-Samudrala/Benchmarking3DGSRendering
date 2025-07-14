@@ -38,7 +38,7 @@
     - Import an .exr HDRI such as [overcast_soil](https://polyhaven.com/a/overcast_soil). This lights up the scene in all directions.
 12. In the project settings menu, turn on the advanced settings and set the display window viewport width and height to 1600 and 900, respectively.
 13. Turn on window transparency options.
-14. Attach the required camera script to the camera3D node for image capture. Refer to the scripts provided in the folder...
+14. Attach the required camera script (available in Godot_Scripts folder) to the camera3D node for image capture. Refer to the scripts provided in the folder...
 15. Click the project run button to capture images for the given configuration. Modify the configuration in the scripts and rerun to capture images from various angles and heights.
 16. Repeat step 15 until the captured images cover the entire model, top to bottom, and in all directions.
 17. These images are further processed using [Colmap](https://colmap.github.io/) to extract Structure-from-Motion (SfM) information that is used to create 3DGS point cloud. More details are discussed in the following sections.
