@@ -1,4 +1,4 @@
-If you use any component of this repository, please cite:
+If you use this repository, please cite:
 
 S. Samudrala, S. Kondguli and P. Gratz, "Benchmarking 3D Gaussian Splatting Rendering," 2025 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Ghent, Belgium, 2025, pp. 227-238, doi: 10.1109/ISPASS64960.2025.00029.
 
