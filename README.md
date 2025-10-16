@@ -1,3 +1,19 @@
+If you use any component of this repository, please cite:
+
+S. Samudrala, S. Kondguli and P. Gratz, "Benchmarking 3D Gaussian Splatting Rendering," 2025 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Ghent, Belgium, 2025, pp. 227-238, doi: 10.1109/ISPASS64960.2025.00029.
+
+@INPROCEEDINGS{11096354,
+  author={Samudrala, Saichand and Kondguli, Sushant and Gratz, Paul},
+  booktitle={2025 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)}, 
+  title={Benchmarking 3D Gaussian Splatting Rendering}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={227-238},
+  keywords={Image quality;Training;Solid modeling;Three-dimensional displays;Graphics processing units;Manuals;Benchmark testing;Rendering (computer graphics);Hardware;Synchronization},
+  doi={10.1109/ISPASS64960.2025.00029}}
+
+
 # Benchmarking 3D Gaussian Splatting (3DGS) Rendering
 ## OS: Linux Ubuntu
 
